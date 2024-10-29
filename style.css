@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+  background-image: url(/e4fondo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 200px;
+  padding: 100px;
+  border-radius: 20px;
+  font-family: "Poppins";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+h1 {
+    background: none;
+    font-size: 3rem;
+    color: black;
+    text-align: center;
+    padding: 10px;
+  }
